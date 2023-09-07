@@ -1,2 +1,2 @@
 # exercicios-java
-Exercicios feitos em Java, realizados para aprender POO durante meu 2º período na faculdade de Engenharia de Software
+Exercicios feitos em Java, realizados para aprender Programação Orientada a Objetos durante meu 2º período na faculdade de Engenharia de Software
