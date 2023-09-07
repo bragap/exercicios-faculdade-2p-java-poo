@@ -1,4 +1,4 @@
-package exercicios;
+
 
 import java.io.BufferedReader;
 import java.io.FileReader;
@@ -9,8 +9,7 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
 import java.util.Date;
-import Data;
-import java.util.Scanner;
+
 
 public class exercicio11 {
     public static Scanner ler = new Scanner(System.in);
